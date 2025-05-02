@@ -1,0 +1,8 @@
+flask
+dash
+plotly
+numpy
+scipy
+gunicorn
+dash-bootstrap-components
+setuptools
